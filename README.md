@@ -7,3 +7,6 @@ This project is the classic card game Twenty One or BlackJack. This program allo
 
 Project 2: CarInsurance
 This project is a web application for users to apply for car insurance. The users is asked to enter pertinent information for their application. From their the code will calculate their monthly rate based off their information. This project not only utilizes C# but also database management through Entity Framework and the design pattern MVC.
+
+Project 3: Newsletter
+This project is a web application for users to sign up for a newsletter. The user is presented with a sign up page where they provide their first name, last name, and email. The code checks to ensure that these inputs match correct formats. If the users input to meet the formatting rules, they are then taken to a new page informing them of their successful submission of data. This program also has an admin page for viewing all users information as well as a button for unsubscribing a user.
